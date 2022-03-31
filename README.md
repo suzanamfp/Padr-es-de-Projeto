@@ -11,9 +11,9 @@ VANTAGEM DO FACTORY METHOD
 - Não fere o princípio aberto/fechado por promover escalabilidade;
 
 VANTAGEM DO BUILDER
-Flexibilidade na criação dos objetos;
-Reutilização de código da cronstrução ao criar novos produtos;
-Responsabilidade única onde o código de construção do objeto fica isolada da de negócio.
+- Flexibilidade na criação dos objetos;
+- Reutilização de código da cronstrução ao criar novos produtos;
+- Responsabilidade única onde o código de construção do objeto fica isolada da de negócio.
 
 VANTAGEM DO STRATEGY 
 - Princípio aberto/fechado. Pode-se acrescentar outras estratégias que o contexto não será mudado.
